@@ -1,0 +1,7 @@
+table.plugin-install .star-holder:after {
+	content: attr(title);
+	font-weight: bold;
+	display: block;
+	font-size: 10px;
+	clear: both;
+}
