@@ -19,6 +19,9 @@ Additional enhancements are coming soon as well!
 
 Extract the zip file and drop the contents in the wp-content/plugins/ directory of your WordPress installation and then activate the plugin from the "Plugins" page.
 
+== Screenshots ==
+1. The number of ratings each plugin has received is displayed below the star rating itself.
+
 == Changelog ==
 
 = 0.6 =
