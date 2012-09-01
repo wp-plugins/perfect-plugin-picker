@@ -1,5 +1,5 @@
 === Perfect Plugin Picker ===
-Contributors: Captin Shmit
+Contributors: Joe Anzalone
 Donate link: http://JoeAnzalone.com
 Tags: plugins, admin
 Requires at least: 2.0.2
